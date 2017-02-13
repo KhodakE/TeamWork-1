@@ -10,7 +10,11 @@ namespace TeamWork
     {
         static void Main(string[] args)
         {
-            ConsoleWriteLine("HellojAY);
-        }
+
+            Console.WriteLine("Hello Friend");
+            Console.WriteLine("My first code");
+            Console.WriteLine("Hello tm");
+       
+         }
     }
 }

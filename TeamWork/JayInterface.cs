@@ -11,5 +11,6 @@ namespace TeamWork
         void Create();
         void Delete();
         void Update();
+        void InsetData(object obj);
     }
 }

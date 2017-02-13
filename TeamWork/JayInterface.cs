@@ -6,11 +6,10 @@ using System.Threading.Tasks;
 
 namespace TeamWork
 {
-    class Program
+    public interface JayInterface
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("My first code");
-        }
+        void Create();
+        void Delete();
+        void Update();
     }
 }
